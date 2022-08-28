@@ -21,7 +21,7 @@
 <h2>A Bit About Me!</h2>
 <p> I’m a software engineer from Los Angeles. My passion for learning and desire to improve accessibility for users drives me to code. Years of experience in structured data and field-based data collection while working directly with underserved communities have shown me that there's always room for improvement. Enhanced software tools can make all the difference. Working in non-profits and seeing this need for improvement firsthand, lead me to approach coding with best practices, efficiency, accessibility, curiosity, and creativity in mind.  </p>
 
-<h2>Github Stat</h2>
+<h2>Github Stats</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=erikarios&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=0AD4F7&fire=8E49F8&currStreakLabel=558EF8&currStreakNum=8E49F8&sideNums=0AD4F7&sideLabels=558EF8&dates=727272&background=DD272700">
 </div>
